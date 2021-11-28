@@ -1,6 +1,16 @@
 # flutter_network
 
-A new Flutter application.
+A new Flutter application for Networking Packgages 
+# http package 
+* used this package for retive all Todo List from Apis ,Add ,Delete from Apis .
+ 
+# Chopper package
+* is an http client generator for Dart and Flutter like Retrofit in Android
+*  used it in demo for fetch all Posts , Add , delete from Apis Service 
+
+# dio packgage 
+* A powerful Http client for Dart, which supports Interceptors, Global configuration, FormData, Request Cancellation, File downloading, Timeout.
+* used it in demo for fetch all News Article 
 
 ## Getting Started
 
